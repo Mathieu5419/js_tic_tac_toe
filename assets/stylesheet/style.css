@@ -1,18 +1,15 @@
-.row{
-    display: flex;
-    justify-content: center;
+.row {
+  display: flex;
+  justify-content: center;
 }
 
 .btn {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .square {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-
-
-
